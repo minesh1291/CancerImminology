@@ -1,3 +1,5 @@
-# Applocation of immFocus normalization of mRNA-Seq profile for cancer prognosis
+# Application of immFocus normalization of mRNA-Seq profile for cancer prognosis
+
+* Improve immFocus method
 * Use immFocus as preprocessing step
-* Get inshit and try to improve immFocus method 
+* Use normalized expression as input for TILs estimation methods
